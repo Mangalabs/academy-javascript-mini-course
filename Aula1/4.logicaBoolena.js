@@ -15,12 +15,11 @@ console.log("igualdadeEstritaAC", igualdadeEstritaAC);
 const desigualdade = a != d;
 console.log("desigualdade", desigualdade);
 
-const negacao = !e
-console.log("negacao", negacao)
+const negacao = !e;
+console.log("negacao", negacao);
 
 const disjuncao = a === d || a === b;
-console.log("disjuncao", disjuncao)
+console.log("disjuncao", disjuncao);
 
 const conjuncao = a === d && a === b;
-console.log("conjuncao", conjuncao)
-
+console.log("conjuncao", conjuncao);
